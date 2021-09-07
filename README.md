@@ -63,3 +63,21 @@ This proposed model returns that item along with the result to provide reference
 
 ## A JSON Example
 An [example `lab_result` JSON object is available here](lab_result.json).
+
+# Some Discussion
+
+## Metric "Type"
+
+We've expanded the type to be a complete object to accommodate several types of measures. Example types:
+
+* **analyte**: a single substance measured  
+* **total**: the combination of several analytes (_e.g. "total thc"_)  
+* **derivation**: a derived value (_e.g. "active thc"_)  
+
+## Metric "Reference" is_rnd
+
+Within the reference object in the metric, we've added an `is_rnd` key. This key is a flexible way for laboratories to indicate that a measure may be reported, but it may not meet a regulatory or certification standard. For example, this may be helpful for labs distinguishing analytes for which they are ISO certified vs those for which they are working on validation. 
+
+## action_limit vs. status
+
+While pass or fail may ultimately be an outcome of a laboratory result, not all analytes get a pass or fail status, and those that do hide the extent to which they passed or failed from future data review. By instead affixing "action limit", pass or fail is discernible by comparing it with the analyte's quantity, while preserving itself beyond future rule changes.
