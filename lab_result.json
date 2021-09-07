@@ -1,0 +1,454 @@
+{
+  "id": "01FF11NG5SZ1YTV96NRBZ2A67F",
+  "sourceLicense": "ABC",
+  "targetLicense": "L3",
+  "labSampleItem": {
+    "lot": {
+      "id": "01FC92J1N961HR4KTY2BDFTRTY"
+    },
+    "product": {
+      "id": "01FC92H860K9ZW1ATB20VVQYK2",
+      "name": "1g kief bags",
+      "type": {
+        "id": "018NY6XC00PTSF5NTC899SR0JF",
+        "name": "Concentrate For Inhalation"
+      },
+      "package": {
+        "id": "",
+        "name": "",
+        "type": "each",
+        "size": 1,
+        "unit": "g"
+      }
+    },
+    "variety": {
+      "id": "01F33E59C26X8D0H6T93A3W8CB",
+      "name": "Alpha Blue"
+    },
+    "unitCount": 1,
+    "unitPrice": 0,
+    "fullPrice": 0
+  },
+  "metricList": [
+    {
+      "id": "01FF11NG5QJ1TYEDGHP8JNVG08",
+      "reference": {
+        "id": "01FF11NG5NXT868SQWJQBF1973",
+        "common_name": "cbt",
+        "reference_name": "cannabicitran",
+        "reference_id": "59444393",
+        "reference_type": "casrn",
+        "reference_link": "https:\/\/pubchem.ncbi.nlm.nih.gov\/compound\/Cannabicitran"
+      },
+      "type": {
+        "id": "01FF11NG5PT7R5N2WV0SF6M7WF",
+        "name": "analyte",
+        "description": "A single substance under analysis."
+      },
+      "category": {
+        "id": "01FF11NG5PT7R5N2WV0SF6M7WG",
+        "name": "cannabinoid",
+        "description": "Any substance that binds to cannabinoid receptors."
+      },
+      "quantity": {
+        "qty": 0.7035,
+        "uom": "percent",
+        "lod": null,
+        "loq": null,
+        "uloq": null,
+        "action_limit": null,
+        "is_rnd": false
+      }
+    },
+    {
+      "id": "01FF11NG5QJ1TYEDGHP8JNVG0C",
+      "reference": {
+        "id": "01FF11NG5QJ1TYEDGHP8JNVG09",
+        "common_name": "d9-thc",
+        "reference_name": "delta-9-tetrahydrocannabinol",
+        "reference_id": "1972-08-3",
+        "reference_type": "casrn",
+        "reference_link": "https:\/\/commonchemistry.cas.org\/detail?cas_rn=1972-08-3"
+      },
+      "type": {
+        "id": "01FF11NG5QJ1TYEDGHP8JNVG0A",
+        "name": "analyte",
+        "description": "A single substance under analysis."
+      },
+      "category": {
+        "id": "01FF11NG5QJ1TYEDGHP8JNVG0B",
+        "name": "cannabinoid",
+        "description": "Any substance that binds to cannabinoid receptors."
+      },
+      "quantity": {
+        "qty": 70.8457,
+        "uom": "percent",
+        "lod": null,
+        "loq": null,
+        "uloq": null,
+        "action_limit": null,
+        "is_rnd": false
+      }
+    },
+    {
+      "id": "01FF11NG5QJ1TYEDGHP8JNVG0G",
+      "reference": {
+        "id": "01FF11NG5QJ1TYEDGHP8JNVG0D",
+        "common_name": "d9-thcva",
+        "reference_name": "delta-9-tetrahydrocannabivarinic acid",
+        "reference_id": "59444416",
+        "reference_type": "pubchem cid",
+        "reference_link": "https:\/\/pubchem.ncbi.nlm.nih.gov\/compound\/59444416"
+      },
+      "type": {
+        "id": "01FF11NG5QJ1TYEDGHP8JNVG0E",
+        "name": "analyte",
+        "description": "A single substance under analysis."
+      },
+      "category": {
+        "id": "01FF11NG5QJ1TYEDGHP8JNVG0F",
+        "name": "cannabinoid",
+        "description": "Any substance that binds to cannabinoid receptors."
+      },
+      "quantity": {
+        "qty": 14.016,
+        "uom": "percent",
+        "lod": null,
+        "loq": null,
+        "uloq": null,
+        "action_limit": null,
+        "is_rnd": false
+      }
+    },
+    {
+      "id": "01FF11NG5QJ1TYEDGHP8JNVG0M",
+      "reference": {
+        "id": "01FF11NG5QJ1TYEDGHP8JNVG0H",
+        "common_name": "cbdv",
+        "reference_name": "cannabidivarin",
+        "reference_id": "11601669",
+        "reference_type": "pubchem cid",
+        "reference_link": "https:\/\/pubchem.ncbi.nlm.nih.gov\/compound\/11601669"
+      },
+      "type": {
+        "id": "01FF11NG5QJ1TYEDGHP8JNVG0J",
+        "name": "analyte",
+        "description": "A single substance under analysis."
+      },
+      "category": {
+        "id": "01FF11NG5QJ1TYEDGHP8JNVG0K",
+        "name": "cannabinoid",
+        "description": "Any substance that binds to cannabinoid receptors."
+      },
+      "quantity": {
+        "qty": 1.0913,
+        "uom": "percent",
+        "lod": null,
+        "loq": null,
+        "uloq": null,
+        "action_limit": null,
+        "is_rnd": false
+      }
+    },
+    {
+      "id": "01FF11NG5QJ1TYEDGHP8JNVG0R",
+      "reference": {
+        "id": "01FF11NG5QJ1TYEDGHP8JNVG0N",
+        "common_name": "d8-thc",
+        "reference_name": "delta-8-tetrahydrocannabinol",
+        "reference_id": "638026",
+        "reference_type": "pubchem cid",
+        "reference_link": "https:\/\/pubchem.ncbi.nlm.nih.gov\/compound\/638026"
+      },
+      "type": {
+        "id": "01FF11NG5QJ1TYEDGHP8JNVG0P",
+        "name": "analyte",
+        "description": "A single substance under analysis."
+      },
+      "category": {
+        "id": "01FF11NG5QJ1TYEDGHP8JNVG0Q",
+        "name": "cannabinoid",
+        "description": "Any substance that binds to cannabinoid receptors."
+      },
+      "quantity": {
+        "qty": 0.6489,
+        "uom": "percent",
+        "lod": null,
+        "loq": null,
+        "uloq": null,
+        "action_limit": null,
+        "is_rnd": false
+      }
+    },
+    {
+      "id": "01FF11NG5QJ1TYEDGHP8JNVG0W",
+      "reference": {
+        "id": "01FF11NG5QJ1TYEDGHP8JNVG0S",
+        "common_name": "cbc",
+        "reference_name": "cannabichromene",
+        "reference_id": "20675-51-8",
+        "reference_type": "casrn",
+        "reference_link": "https:\/\/commonchemistry.cas.org\/detail?cas_rn=20675-51-8"
+      },
+      "type": {
+        "id": "01FF11NG5QJ1TYEDGHP8JNVG0T",
+        "name": "analyte",
+        "description": "A single substance under analysis."
+      },
+      "category": {
+        "id": "01FF11NG5QJ1TYEDGHP8JNVG0V",
+        "name": "cannabinoid",
+        "description": "Any substance that binds to cannabinoid receptors."
+      },
+      "quantity": {
+        "qty": 6.04071,
+        "uom": "percent",
+        "lod": null,
+        "loq": null,
+        "uloq": null,
+        "action_limit": null,
+        "is_rnd": false
+      }
+    },
+    {
+      "id": "01FF11NG5QJ1TYEDGHP8JNVG10",
+      "reference": {
+        "id": "01FF11NG5QJ1TYEDGHP8JNVG0X",
+        "common_name": "cbd",
+        "reference_name": "cannabidiol",
+        "reference_id": "644019",
+        "reference_type": "pubchem cid",
+        "reference_link": "https:\/\/pubchem.ncbi.nlm.nih.gov\/compound\/644019"
+      },
+      "type": {
+        "id": "01FF11NG5QJ1TYEDGHP8JNVG0Y",
+        "name": "analyte",
+        "description": "A single substance under analysis."
+      },
+      "category": {
+        "id": "01FF11NG5QJ1TYEDGHP8JNVG0Z",
+        "name": "cannabinoid",
+        "description": "Any substance that binds to cannabinoid receptors."
+      },
+      "quantity": {
+        "qty": 1.063,
+        "uom": "percent",
+        "lod": null,
+        "loq": null,
+        "uloq": null,
+        "action_limit": null,
+        "is_rnd": false
+      }
+    },
+    {
+      "id": "01FF11NG5R2BKE862D39HYE60T",
+      "reference": {
+        "id": "01FF11NG5QJ1TYEDGHP8JNVG11",
+        "common_name": "cbg",
+        "reference_name": "cannabigerol",
+        "reference_id": "5315659",
+        "reference_type": "pubchem cid",
+        "reference_link": "https:\/\/pubchem.ncbi.nlm.nih.gov\/compound\/5315659"
+      },
+      "type": {
+        "id": "01FF11NG5QJ1TYEDGHP8JNVG12",
+        "name": "analyte",
+        "description": "A single substance under analysis."
+      },
+      "category": {
+        "id": "01FF11NG5QJ1TYEDGHP8JNVG13",
+        "name": "cannabinoid",
+        "description": "Any substance that binds to cannabinoid receptors."
+      },
+      "quantity": {
+        "qty": 0,
+        "uom": "percent",
+        "lod": null,
+        "loq": null,
+        "uloq": null,
+        "action_limit": null,
+        "is_rnd": false
+      }
+    },
+    {
+      "id": "01FF11NG5R2BKE862D39HYE60Y",
+      "reference": {
+        "id": "01FF11NG5R2BKE862D39HYE60V",
+        "common_name": "cbdva",
+        "reference_name": "cannabidivarinic acid",
+        "reference_id": "59444387",
+        "reference_type": "pubchem cid",
+        "reference_link": "https:\/\/pubchem.ncbi.nlm.nih.gov\/compound\/59444387"
+      },
+      "type": {
+        "id": "01FF11NG5R2BKE862D39HYE60W",
+        "name": "analyte",
+        "description": "A single substance under analysis."
+      },
+      "category": {
+        "id": "01FF11NG5R2BKE862D39HYE60X",
+        "name": "cannabinoid",
+        "description": "Any substance that binds to cannabinoid receptors."
+      },
+      "quantity": {
+        "qty": 0,
+        "uom": "percent",
+        "lod": null,
+        "loq": null,
+        "uloq": null,
+        "action_limit": null,
+        "is_rnd": false
+      }
+    },
+    {
+      "id": "01FF11NG5R2BKE862D39HYE612",
+      "reference": {
+        "id": "01FF11NG5R2BKE862D39HYE60Z",
+        "common_name": "cbga",
+        "reference_name": "cannabigerolic acid",
+        "reference_id": "6449999",
+        "reference_type": "pubchem cid",
+        "reference_link": "https:\/\/pubchem.ncbi.nlm.nih.gov\/compound\/6449999"
+      },
+      "type": {
+        "id": "01FF11NG5R2BKE862D39HYE610",
+        "name": "analyte",
+        "description": "A single substance under analysis."
+      },
+      "category": {
+        "id": "01FF11NG5R2BKE862D39HYE611",
+        "name": "cannabinoid",
+        "description": "Any substance that binds to cannabinoid receptors."
+      },
+      "quantity": {
+        "qty": 0,
+        "uom": "percent",
+        "lod": null,
+        "loq": null,
+        "uloq": null,
+        "action_limit": null,
+        "is_rnd": false
+      }
+    },
+    {
+      "id": "01FF11NG5R2BKE862D39HYE616",
+      "reference": {
+        "id": "01FF11NG5R2BKE862D39HYE613",
+        "common_name": "cbda",
+        "reference_name": "cannabidiolic acid",
+        "reference_id": "160570",
+        "reference_type": "pubchem cid",
+        "reference_link": "https:\/\/pubchem.ncbi.nlm.nih.gov\/compound\/160570"
+      },
+      "type": {
+        "id": "01FF11NG5R2BKE862D39HYE614",
+        "name": "analyte",
+        "description": "A single substance under analysis."
+      },
+      "category": {
+        "id": "01FF11NG5R2BKE862D39HYE615",
+        "name": "cannabinoid",
+        "description": "Any substance that binds to cannabinoid receptors."
+      },
+      "quantity": {
+        "qty": 0,
+        "uom": "percent",
+        "lod": null,
+        "loq": null,
+        "uloq": null,
+        "action_limit": null,
+        "is_rnd": false
+      }
+    },
+    {
+      "id": "01FF11NG5R2BKE862D39HYE61A",
+      "reference": {
+        "id": "01FF11NG5R2BKE862D39HYE617",
+        "common_name": "d9-thcv",
+        "reference_name": "delta-9-tetrahydrocannabivarin",
+        "reference_id": "93147",
+        "reference_type": "pubchem cid",
+        "reference_link": "https:\/\/pubchem.ncbi.nlm.nih.gov\/compound\/93147"
+      },
+      "type": {
+        "id": "01FF11NG5R2BKE862D39HYE618",
+        "name": "analyte",
+        "description": "A single substance under analysis."
+      },
+      "category": {
+        "id": "01FF11NG5R2BKE862D39HYE619",
+        "name": "cannabinoid",
+        "description": "Any substance that binds to cannabinoid receptors."
+      },
+      "quantity": {
+        "qty": 0,
+        "uom": "percent",
+        "lod": null,
+        "loq": null,
+        "uloq": null,
+        "action_limit": null,
+        "is_rnd": false
+      }
+    },
+    {
+      "id": "01FF11NG5R2BKE862D39HYE61E",
+      "reference": {
+        "id": "01FF11NG5R2BKE862D39HYE61B",
+        "common_name": "d9-thca",
+        "reference_name": "delta-9-tetrahydrocannabinolic acid",
+        "reference_id": "98523",
+        "reference_type": "pubchem cid",
+        "reference_link": "https:\/\/pubchem.ncbi.nlm.nih.gov\/compound\/delta_9_-Tetrahydrocannabinolic-acid"
+      },
+      "type": {
+        "id": "01FF11NG5R2BKE862D39HYE61C",
+        "name": "analyte",
+        "description": "A single substance under analysis."
+      },
+      "category": {
+        "id": "01FF11NG5R2BKE862D39HYE61D",
+        "name": "cannabinoid",
+        "description": "Any substance that binds to cannabinoid receptors."
+      },
+      "quantity": {
+        "qty": 0,
+        "uom": "percent",
+        "lod": null,
+        "loq": null,
+        "uloq": null,
+        "action_limit": null,
+        "is_rnd": false
+      }
+    },
+    {
+      "id": "01FF11NG5R2BKE862D39HYE61J",
+      "reference": {
+        "id": "01FF11NG5R2BKE862D39HYE61F",
+        "common_name": "cbn",
+        "reference_name": "cannabinol",
+        "reference_id": "2543",
+        "reference_type": "pubchem cid",
+        "reference_link": "https:\/\/pubchem.ncbi.nlm.nih.gov\/compound\/2543"
+      },
+      "type": {
+        "id": "01FF11NG5R2BKE862D39HYE61G",
+        "name": "analyte",
+        "description": "A single substance under analysis."
+      },
+      "category": {
+        "id": "01FF11NG5R2BKE862D39HYE61H",
+        "name": "cannabinoid",
+        "description": "Any substance that binds to cannabinoid receptors."
+      },
+      "quantity": {
+        "qty": 0,
+        "uom": "percent",
+        "lod": null,
+        "loq": null,
+        "uloq": null,
+        "action_limit": null,
+        "is_rnd": false
+      }
+    }
+  ]
+}

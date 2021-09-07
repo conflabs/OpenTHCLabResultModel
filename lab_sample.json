@@ -1,0 +1,65 @@
+{
+  "data": {
+    "source_license": "ABC",
+    "target_license": "L3",
+    "depart_at": "2021-09-04 18:45:00+00",
+    "arrive_at": "2021-09-04 20:45:00+00",
+    "item_list": [
+      {
+        "lot": {
+          "id": "01FC92J1N961HR4KTY2BDFTRTY"
+        },
+        "product": {
+          "id": "01FC92H860K9ZW1ATB20VVQYK2",
+          "name": "1g kief bags",
+          "type": {
+            "id": "018NY6XC00PTSF5NTC899SR0JF",
+            "name": "Concentrate For Inhalation"
+          },
+          "package": {
+            "id": "",
+            "name": "",
+            "type": "each",
+            "size": 1,
+            "unit": "g"
+          }
+        },
+        "variety": {
+          "id": "01F33E59C26X8D0H6T93A3W8CB",
+          "name": "Alpha Blue"
+        },
+        "unit_count": 1,
+        "unit_price": 0,
+        "full_price": 0
+      },
+      {
+        "lot": {
+          "id": "01FDDCYRFSVTA30KA97PY2QKF5"
+        },
+        "product": {
+          "id": "01F33DYGZ5X6BPBKN06CN4N9P6",
+          "name": "Flower Lots",
+          "type": {
+            "id": "018NY6XC00PTAF3TFBB51C8HX6",
+            "name": "Flower Lots"
+          },
+          "package": {
+            "id": "",
+            "name": "",
+            "type": "bulk",
+            "size": 1,
+            "unit": "g"
+          }
+        },
+        "variety": {
+          "id": "01F33E59C26X8D0H6T93A3W8CB",
+          "name": "Alpha Blue"
+        },
+        "unit_count": 4,
+        "unit_price": 0,
+        "full_price": 0
+      }
+    ]
+  },
+  "meta": []
+}
