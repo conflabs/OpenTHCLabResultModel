@@ -44,7 +44,7 @@ This proposed model returns that item along with the result to provide reference
   * **reference_id**: an ID number representing the Reference analyte.
   * **reference_type**: an identifier of where the Reference ID is catalogued.
   * **reference_link**: a URL link to the Reference ID.  
-  * **is_rnd**: a boolean state indicating whether or not the reference reported is reported for compliance, or for research purposes.
+  * **reference_scope**: a string indicating a/the covering scope (e.g. ISO, A2LA, ICE, CLIA, COLA, etc.).
 * **type**: An object describing the measure type (e.g. analyte, summary, etc.)  
   * **id**: a ULID unique to this type.  
   * **name**: the name of this type.  
