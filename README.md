@@ -59,7 +59,7 @@ This proposed model returns that item along with the result to provide reference
   * **lod**: the limit of detection reported for this analyte.
   * **loq**: the limit of quantitation reported for this analyte.
   * **loq**: the limit of quantitation reported for this analyte.
-  * **action_limit**: any action limit imposed.
+  * **action_limit**: any action limit imposed, and assumes the same uom of the quant.
 
 ## A JSON Example
 An [example `lab_result` JSON object is available here](lab_result.json).
@@ -74,9 +74,12 @@ We've expanded the type to be a complete object to accommodate several types of 
 * **total**: the combination of several analytes (_e.g. "total thc"_)  
 * **derivation**: a derived value (_e.g. "active thc"_)  
 
-## Metric "Reference" is_rnd
+## Metric "Reference" reference_scope
 
-Within the reference object in the metric, we've added an `is_rnd` key. This key is a flexible way for laboratories to indicate that a measure may be reported, but it may not meet a regulatory or certification standard. For example, this may be helpful for labs distinguishing analytes for which they are ISO certified vs those for which they are working on validation. 
+Within the reference object in the metric, we've added a `reference_scope` key. This key is a flexible way for 
+laboratories to indicate that a measure may be reported, but it may not meet a regulatory or certification standard. 
+For example, this may be helpful for labs distinguishing analytes for which they are ISO certified vs those for which 
+they are working on validation. 
 
 ## action_limit vs. status
 

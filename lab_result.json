@@ -57,7 +57,7 @@
         "loq": null,
         "uloq": null,
         "action_limit": null,
-        "is_rnd": false
+        "reference_scope": "ISO"
       }
     },
     {
@@ -87,7 +87,7 @@
         "loq": null,
         "uloq": null,
         "action_limit": null,
-        "is_rnd": false
+        "reference_scope": "ISO"
       }
     },
     {
@@ -117,7 +117,7 @@
         "loq": null,
         "uloq": null,
         "action_limit": null,
-        "is_rnd": false
+        "reference_scope": "ISO"
       }
     },
     {
@@ -147,7 +147,7 @@
         "loq": null,
         "uloq": null,
         "action_limit": null,
-        "is_rnd": false
+        "reference_scope": "ISO"
       }
     },
     {
@@ -177,7 +177,7 @@
         "loq": null,
         "uloq": null,
         "action_limit": null,
-        "is_rnd": false
+        "reference_scope": "ISO"
       }
     },
     {
@@ -207,7 +207,7 @@
         "loq": null,
         "uloq": null,
         "action_limit": null,
-        "is_rnd": false
+        "reference_scope": "ISO"
       }
     },
     {
@@ -237,7 +237,7 @@
         "loq": null,
         "uloq": null,
         "action_limit": null,
-        "is_rnd": false
+        "reference_scope": "ISO"
       }
     },
     {
@@ -267,7 +267,7 @@
         "loq": null,
         "uloq": null,
         "action_limit": null,
-        "is_rnd": false
+        "reference_scope": "ISO"
       }
     },
     {
@@ -297,7 +297,7 @@
         "loq": null,
         "uloq": null,
         "action_limit": null,
-        "is_rnd": false
+        "reference_scope": "ISO"
       }
     },
     {
@@ -327,7 +327,7 @@
         "loq": null,
         "uloq": null,
         "action_limit": null,
-        "is_rnd": false
+        "reference_scope": "ISO"
       }
     },
     {
@@ -357,7 +357,7 @@
         "loq": null,
         "uloq": null,
         "action_limit": null,
-        "is_rnd": false
+        "reference_scope": "ISO"
       }
     },
     {
@@ -387,7 +387,7 @@
         "loq": null,
         "uloq": null,
         "action_limit": null,
-        "is_rnd": false
+        "reference_scope": "ISO"
       }
     },
     {
@@ -417,7 +417,7 @@
         "loq": null,
         "uloq": null,
         "action_limit": null,
-        "is_rnd": false
+        "reference_scope": "ISO"
       }
     },
     {
@@ -447,7 +447,7 @@
         "loq": null,
         "uloq": null,
         "action_limit": null,
-        "is_rnd": false
+        "reference_scope": "ISO"
       }
     }
   ]
